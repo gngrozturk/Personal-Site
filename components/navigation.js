@@ -22,15 +22,11 @@ function Navigation() {
         <Container>
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
-              <Nav.Link className={styles.links} href="#features">
+              <Nav.Link className={styles.links} href="/">
                 HOME
               </Nav.Link>
-              <Nav.Link className={styles.links} href="#pricing">
+              <Nav.Link className={styles.links} href="#resume">
                 RESUME
-              </Nav.Link>
-
-              <Nav.Link className={styles.links} href="#pricing">
-                BLOG
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>

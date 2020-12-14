@@ -9,7 +9,7 @@ function Resume() {
   return (
     <div>
       <Container>
-        <Row className={styles.container}>
+        <Row className={styles.container} id="resume">
           <Col lg={10}>
             <Row className={styles.about}>
               <Col lg={12}>
