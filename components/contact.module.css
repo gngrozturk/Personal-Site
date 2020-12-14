@@ -1,0 +1,15 @@
+.icon {
+  width: 45px;
+  height: 45px;
+  margin: 1em;
+}
+
+.icons {
+  text-align: center;
+}
+
+.container{
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 3%;
+}

@@ -1,0 +1,25 @@
+.navigation {
+  background-color: #0d0d0d;
+  padding: 0.5em;
+}
+
+.links {
+  color: #228cee;
+  font-family: "Roboto Mono", monospace;
+  margin-right: 1em;
+}
+
+.links:hover {
+  color: #359eff;
+  font-family: "Roboto Mono", monospace;
+}
+
+.logo {
+  font-size: 2em;
+  color: white;
+  font-family: "Yellowtail", cursive;
+}
+
+.logo:hover {
+  color: white;
+}

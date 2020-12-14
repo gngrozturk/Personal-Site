@@ -1,0 +1,24 @@
+.container {
+  color: white;
+  justify-content: center;
+}
+
+.about {
+  border-left: 3px solid #228cee;
+  margin-top: 7%;
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .about {
+    border-left: 0px solid #228cee;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .meImg {
+    order: -1;
+    max-width: 300px;
+    margin-bottom: 1em;
+  }
+}

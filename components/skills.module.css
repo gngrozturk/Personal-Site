@@ -1,0 +1,45 @@
+.container {
+  color: white;
+  justify-content: center;
+}
+
+.about {
+  border-left: 3px solid #228cee;
+  margin-top: 7%;
+  align-items: center;
+}
+
+.skill {
+  margin-top: 5%;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  max-height: 170px;
+  max-width: 190px;
+}
+
+.rowCenter {
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  .about {
+    border-left: 0px solid #228cee;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .logo {
+    margin-bottom: 1em;
+    max-height: 140px;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .rowCenter {
+    text-align: center;
+  }
+}
