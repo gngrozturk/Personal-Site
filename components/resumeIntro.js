@@ -13,7 +13,7 @@ function Resume() {
           <Col lg={10}>
             <Row className={styles.about}>
               <Col lg={12}>
-                <h2>Özet</h2>
+                <h2>Introduction</h2>
                 <p>
                   Merhaba, ben Güngör Öztürk. Konya Teknik Üniversitesi
                   Bilgisayar Mühendisliği Bölümü 3.sınıf öğrencisiyim. Bugün

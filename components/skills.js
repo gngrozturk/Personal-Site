@@ -25,9 +25,8 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Geliştirdiğim projelerimi daha dinamik hale getirmek için
-                  kullanıyorum. Kütüphanelerinde kendimi geliştirmeye
-                  çalışıyorum
+                  I use it to develop more dynamic projects. I'm improving
+                  myself to be better at JavaScript libraries
                 </p>
               </Col>
             </Row>
@@ -40,8 +39,8 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Daha etkileyici arayüzler kodlamak için Next.js ile birlikte
-                  öğrenmeye başladım.
+                  I started learning with Next.js to create more expressive user
+                  interfaces
                 </p>
               </Col>
             </Row>
@@ -54,9 +53,9 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  JAMStack yaklaşımıyla bir blog geliştirmek ve React.js
-                  hakkında daha fazla tecrübe kazanmak için kullanmaya başladım
-                  şuan görüntülediğiniz bu site 2. Next.js projem
+                  I started using it to develop a blog with the JAMStack
+                  approach and gain experience in React.js and this website is
+                  my second Next.js project.
                 </p>
               </Col>
             </Row>
@@ -69,9 +68,9 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Uzun zamandır geliştirdiğim birçok web projesinde ve
-                  üniversite 3.sınıfta aldığım seçmeli web programlama dersinde
-                  kullandım.
+                  I used in many web projects I developed and in the optional
+                  web programming course I took when I was in the third year of
+                  university.
                 </p>
               </Col>
             </Row>
@@ -84,7 +83,7 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Web projelerimde arayüz tasrımlarımı kodlarken kullanıyorum.
+                  I use it in coding interface designs in my web projects.
                 </p>
               </Col>
             </Row>
@@ -97,8 +96,8 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Web projelerimde responsive arayüzler geliştirmek için
-                  bootstrap framework'ünü sıklıkla kullanıyorum.
+                  I use the bootstrap framework to develop responsive user
+                  interfaces in my web projects
                 </p>
               </Col>
             </Row>
@@ -111,9 +110,9 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Projelerimi kodlamaya başlamadan önce tasarlarken ve
-                  projelerimin bazı modüllerindeki logo, icon vb görsel
-                  materyalleri üretirken Figma'yı kullanıyorum.
+                  Before I start coding, I use Figma for design. I also use it
+                  to create visual materials like logo, icon etc. for my
+                  projects.
                 </p>
               </Col>
             </Row>
@@ -126,9 +125,8 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Tek kod tabanından hem android hem de ios platformlara
-                  uygulama geliştirmek amacıyla öğrenmeye başladım. Hala öğrenme
-                  aşamasındayım.
+                  I started learning from a single codebase to develop apps for
+                  both android and ios platforms. I'm still learning.
                 </p>
               </Col>
             </Row>
@@ -141,8 +139,8 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  JAMStack kavramı hakkında daha fazla tecrübe edinmek amacıyla
-                  geliştirdiğim blog projemde verileri çekmek için kullandım.
+                  I used it to pull data in my blog project that I developed to
+                  gain more experience on the JAMStack approach.
                 </p>
               </Col>
             </Row>
@@ -155,7 +153,7 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Bazı projelerimin back-end'inin deploy edilmesinde kullandım.
+                  I used it to deploy the back-end of some of my projects.
                 </p>
               </Col>
             </Row>
@@ -168,9 +166,10 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Katıldığım Mustafa Akgül Özgür Yazılım Kış Kampında öğrenmeye
-                  başladım sonrasında yarı zamanlı olarak çalışırken bir flutter
-                  projesinde küçük çaplı görevler aldım.
+                  I attended the Mustafa Akgül Free Software Winter Camp to
+                  start learning Flutter. During my part-time work at Konya
+                  Technical University Information Technologies Department, I
+                  took small tasks in a Flutter project.
                 </p>
               </Col>
             </Row>
@@ -183,9 +182,10 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Üniversite 2.sınıfta nesneye yönelik programlama dersinde
-                  öğrenmeye başladım. Sonrasında ise Java Swing ile GUI
-                  geliştirme üzerine Görsel Programlama Dilleri dersi aldım.
+                  I started learning in object-oriented programming course in
+                  the second year of university. Then I took the Visual
+                  Programming Languages ​​course about GUI development with Java
+                  Swing.
                 </p>
               </Col>
             </Row>
@@ -198,9 +198,10 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Üniversite 1.sınıfta Algotitma ve Programlama 1-2 derslerinde
-                  temel C eğitimi aldım, 2. sınıfta Veri Yapıları, Algoritmalar
-                  derslerinde ve bazı küçük projelerde kullandım.
+                  In the first year of university, I received basic C training
+                  in Algorithm and Programming 1-2 lessons. In the second grade,
+                  I used it in Data Structures, Algorithms lessons and some
+                  small projects.
                 </p>
               </Col>
             </Row>
