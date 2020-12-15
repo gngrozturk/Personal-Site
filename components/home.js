@@ -14,19 +14,19 @@ function Home() {
               <Col lg={8}>
                 <h2>About Me</h2>
                 <p>
-                  Hi, I am Güngör. I am a 3rd year student at Konya Technical
-                  University Computer Engineering Department. I am studying at
-                  web and mobile development as a front-end developer. I work in
-                  these areas because I think I can develop platforms that can
-                  solve problems in people's daily lives. I love to learn and
-                  share what I have learned. That's why I created a blog website
-                  where we periodically share what we learned with my friends. I
-                  enjoy developing open source projects. If you want to see my
-                  projects, you can view my github profile with the button
-                  below. I spend my free time playing instruments and reading
-                  poetry. In this way, I both have a pleasant time and increase
-                  my productivity. If you want to contact me, you can use the
-                  buttons below.
+                  Hi, I am Güngör. I am a 3rd grade student in Konya Technical
+                  University Computer Engineering Department. I have been
+                  studying on front-end development websites and mobile
+                  applications. The risen I work in theese fields is I think I
+                  can develop platforms that can solve problems of people in
+                  daily lives. I love learning and share what I have learnt.
+                  That's why I created a blog website where we periodically
+                  share what we learnt with my friends. I enjoy developing open
+                  source projects. If you want to see my projects, you can view
+                  my github profile by clicking the button below. I spend my
+                  free time playing instruments and reading poetry. In this way,
+                  I both have a pleasant time and increase my productivity. You
+                  can use the buttons below to contact me.
                 </p>
               </Col>
 

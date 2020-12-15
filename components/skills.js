@@ -25,8 +25,8 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I use it to develop more dynamic projects. I'm improving
-                  myself to be better at JavaScript libraries
+                  I use Javascript to develop more dynamic projects. I'm
+                  improving myself to be better at JavaScript libraries.
                 </p>
               </Col>
             </Row>
@@ -39,8 +39,8 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I started learning with Next.js to create more expressive user
-                  interfaces
+                  I have been studying on React.js through Next.js for a while
+                  to create more impressive user interfaces
                 </p>
               </Col>
             </Row>
@@ -53,9 +53,9 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I started using it to develop a blog with the JAMStack
-                  approach and gain experience in React.js and this website is
-                  my second Next.js project.
+                  I started using Next.js to develop a blog with the JAMStack
+                  approach and gain experience in React.js. This website, which
+                  you are currently looking at, is my second Next.js project .
                 </p>
               </Col>
             </Row>
@@ -68,9 +68,9 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I used in many web projects I developed and in the optional
-                  web programming course I took when I was in the third year of
-                  university.
+                  I utilized HTML in many web projects that I developed. Also I
+                  studied HTML in elective web programming lecture which I took
+                  in the 3rd year of university.
                 </p>
               </Col>
             </Row>
