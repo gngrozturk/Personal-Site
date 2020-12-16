@@ -20,13 +20,20 @@ function Home() {
                   applications. The risen I work in theese fields is I think I
                   can develop platforms that can solve problems of people in
                   daily lives. I love learning and share what I have learnt.
-                  That's why I created a blog website where we periodically
-                  share what we learnt with my friends. I enjoy developing open
-                  source projects. If you want to see my projects, you can view
-                  my github profile by clicking the button below. I spend my
-                  free time playing instruments and reading poetry. In this way,
-                  I both have a pleasant time and increase my productivity. You
-                  can use the buttons below to contact me.
+                  That's why I created a{" "}
+                  <span className={styles.blogLink}>
+                    {" "}
+                    <Link href="https://www.betikblog.com/">
+                      <a target="_blank">blog</a>
+                    </Link>{" "}
+                  </span>{" "}
+                  website where we periodically share what we learnt with my
+                  friends. I enjoy developing open source projects. If you want
+                  to see my projects, you can view my github profile by clicking
+                  the button below. I spend my free time playing instruments and
+                  reading poetry. In this way, I both have a pleasant time and
+                  increase my productivity. You can use the buttons below to
+                  contact me.
                 </p>
               </Col>
 

@@ -15,6 +15,9 @@ function HomePage() {
       </style>
       <Head>
         <title>Güngör Öztürk</title>
+        
+        <link rel="shortcut icon" href="/favicon.ico" />
+
         <meta name="description" content="Kişisel web sitem" />
 
         <link rel="preconnect" href="https://fonts.gstatic.com" />

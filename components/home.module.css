@@ -5,8 +5,16 @@
 
 .about {
   border-left: 3px solid #228cee;
-  margin-top: 7%;
+  margin-top: 10%;
   align-items: center;
+}
+
+.blogLink {
+  font-weight: bold;
+}
+
+.blogLink :hover {
+  color: #228cee;
 }
 
 @media screen and (max-width: 768px) {

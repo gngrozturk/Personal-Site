@@ -12,7 +12,7 @@ function Navigation() {
         className={styles.navigation}
         variant="neon"
       >
-        <Navbar.Brand className={styles.logo} href="#home">
+        <Navbar.Brand className={styles.logo} href="/">
           Güngör Öztürk
         </Navbar.Brand>
         <Navbar.Toggle
@@ -27,6 +27,9 @@ function Navigation() {
               </Nav.Link>
               <Nav.Link className={styles.links} href="#resume">
                 RESUME
+              </Nav.Link>
+               <Nav.Link className={styles.links} target="_blank" href="https://www.betikblog.com/gungorozturk">
+                BLOG
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>

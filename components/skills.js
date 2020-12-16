@@ -13,7 +13,7 @@ function Skills() {
           <Col lg={10}>
             <Row className={styles.about}>
               <Col lg={10}>
-                <h2>Yeterlilikler</h2>
+                <h2>My Skills</h2>
               </Col>
             </Row>
 

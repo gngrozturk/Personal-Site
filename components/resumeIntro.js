@@ -15,19 +15,18 @@ function Resume() {
               <Col lg={12}>
                 <h2>Introduction</h2>
                 <p>
-                  Merhaba, ben Güngör Öztürk. Konya Teknik Üniversitesi
-                  Bilgisayar Mühendisliği Bölümü 3.sınıf öğrencisiyim. Bugün
-                  uzun zamandır hayalini kurduğum bu platformda, Betik çatısı
-                  altında sizlerle buluşabildiğim için çok mutluyum. Değişen
-                  zamanla birlikte bilginin değerinin de ivmelenerek arttığını
-                  ve bu bilgileri sadece kendimize saklamak yerine elimizden
-                  geldiğince birbirimizle paylaşarak fikir dünyalarımıza katkı
-                  sağlamamız gerektiğini düşünüyorum.Bu nedenle teknoloji,
-                  geldiğince birbirimizle paylaşarak fikir dünyalarımıza katkı
-                  sağlamamız gerektiğini düşünüyorum.Bu nedenle
-                  teknoloji,geldiğince birbirimizle paylaşarak fikir
-                  dünyalarımıza katkı sağlamamız gerektiğini düşünüyorum.Bu
-                  nedenle teknoloji,
+                  I have been involved in software development for about 3
+                  years. During this time usually web and mobile I worked on
+                  programming. I designed and developed responsive, corporate
+                  web sites for many firm in many sector. I created a two blog
+                  sites by two different front-end approach for gain more
+                  experience about browsers and data transportation. I also
+                  worked on mobile application development. I attended a
+                  software camp about flutter in 2020's semester break. After
+                  semester break I took small assignments in a mobile
+                  application project in the IT department of Konya Technical
+                  University. I think learning is like an endless highway. And I
+                  shape my work with this perspective.
                 </p>
               </Col>
             </Row>

@@ -10,7 +10,13 @@ export default css.global`
 
   a {
     text-decoration: none;
+    color: #228cee;
   }
+
+  a:hover {
+    text-decoration: none;
+  }
+
   h2 {
     font-family: "Roboto Mono", monospace;
     font-size: 2.3em;
