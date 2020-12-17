@@ -12,7 +12,7 @@ function Home() {
           <Col lg={10}>
             <Row className={styles.about}>
               <Col lg={8}>
-                <h2>About Me</h2>
+                <h1>About Me</h1>
                 <p>
                   Hi, I am Güngör. I am a 3rd grade student in Konya Technical
                   University Computer Engineering Department. I have been
@@ -38,7 +38,7 @@ function Home() {
               </Col>
 
               <Col className={styles.meImg} md={6} lg={4}>
-                <Image src="me.png" fluid />
+                <Image src="me.png" alt="gungor ozturk" fluid />
               </Col>
             </Row>
           </Col>

@@ -20,7 +20,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="js.png" fluid />
+                  <Image className={styles.logo} src="js.png" alt="js" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -34,7 +34,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="react.png" fluid />
+                  <Image className={styles.logo} src="react.png" alt="react" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -48,7 +48,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="nextJs.png" fluid />
+                  <Image className={styles.logo} src="nextJs.png" alt="nextjs" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -63,7 +63,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="HTML.png" fluid />
+                  <Image className={styles.logo} src="HTML.png" alt="html" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -78,7 +78,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="CSS.png" fluid />
+                  <Image className={styles.logo} src="CSS.png" alt="css" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -91,7 +91,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="Bootstrap.png" fluid />
+                  <Image className={styles.logo} src="Bootstrap.png" alt="bootstrap" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -105,7 +105,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="figma.png" fluid />
+                  <Image className={styles.logo} src="figma.png" alt="figma" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -120,7 +120,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="reactNative.png" fluid />
+                  <Image className={styles.logo} src="reactNative.png" alt="reactNative" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -134,7 +134,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="strapi.png" fluid />
+                  <Image className={styles.logo} src="strapi.png" alt="strapi" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -148,7 +148,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="heroku.png" fluid />
+                  <Image className={styles.logo} src="heroku.png" alt="heroku" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -161,7 +161,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="flutter.png" fluid />
+                  <Image className={styles.logo} src="flutter.png" alt="flutter" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -177,7 +177,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="java.png" fluid />
+                  <Image className={styles.logo} src="java.png" alt="java" fluid />
                 </Row>
               </Col>
               <Col md={8}>
@@ -193,7 +193,7 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="C.png" fluid />
+                  <Image className={styles.logo} src="C.png" alt="C" fluid />
                 </Row>
               </Col>
               <Col md={8}>

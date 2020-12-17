@@ -17,7 +17,7 @@ export default css.global`
     text-decoration: none;
   }
 
-  h2 {
+  h1, h2 {
     font-family: "Roboto Mono", monospace;
     font-size: 2.3em;
   }
