@@ -15,18 +15,19 @@ function Resume() {
               <Col lg={12}>
                 <h2>Introduction</h2>
                 <p>
-                  I have been involved in software development for about 3
-                  years. During this time usually web and mobile I worked on
-                  programming. I designed and developed responsive, corporate
-                  web sites for many firm in many sector. I created a two blog
-                  sites by two different front-end approach for gain more
-                  experience about browsers and data transportation. I also
-                  worked on mobile application development. I attended a
-                  software camp about flutter in 2020's semester break. After
-                  semester break I took small assignments in a mobile
-                  application project in the IT department of Konya Technical
-                  University. I think learning is like an endless highway. And I
-                  shape my work with this perspective.
+                  I have been involved in software development for about three
+                  years. During this time, I usually worked on programming of
+                  websites and mobile applications. I designed and developed
+                  responsive, corporate web sites for several company in many
+                  sector. I created two blog sites with two different front-end
+                  approach for gain more experience about browsers and data
+                  transportation. I also worked on mobile application
+                  development. I attended a software camp about flutter in
+                  2020's semester break. After semester break I took small
+                  assignments in a mobile application project in the IT
+                  department of Konya Technical University. I consider learning
+                  as an endless highway. And I structure my work within this
+                  perspective.
                 </p>
               </Col>
             </Row>
