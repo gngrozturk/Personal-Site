@@ -34,7 +34,12 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="react.png" alt="react" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="react.png"
+                    alt="react"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
@@ -48,7 +53,12 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="nextJs.png" alt="nextjs" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="nextJs.png"
+                    alt="nextjs"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
@@ -63,7 +73,12 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="HTML.png" alt="html" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="HTML.png"
+                    alt="html"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
@@ -78,12 +93,17 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="CSS.png" alt="css" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="CSS.png"
+                    alt="css"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I use it in coding interface designs in my web projects.
+                  I use CSS in coding interface designs in my web projects.
                 </p>
               </Col>
             </Row>
@@ -91,13 +111,18 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="Bootstrap.png" alt="bootstrap" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="Bootstrap.png"
+                    alt="bootstrap"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I use the bootstrap framework to develop responsive user
-                  interfaces in my web projects
+                  I started learning because I want to develop applications for
+                  android and ios platforms from a single codebase.
                 </p>
               </Col>
             </Row>
@@ -105,7 +130,12 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="figma.png" alt="figma" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="figma.png"
+                    alt="figma"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
@@ -120,7 +150,12 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="reactNative.png" alt="reactNative" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="reactNative.png"
+                    alt="reactNative"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
@@ -134,12 +169,17 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="strapi.png" alt="strapi" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="strapi.png"
+                    alt="strapi"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I used it to pull data in my blog project that I developed to
+                  I have been used strapi to pull data in my blog project that I developed to
                   gain more experience on the JAMStack approach.
                 </p>
               </Col>
@@ -148,12 +188,17 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="heroku.png" alt="heroku" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="heroku.png"
+                    alt="heroku"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I used it to deploy the back-end of some of my projects.
+                  I have been used heroku to deploy the back-end of some of my projects.
                 </p>
               </Col>
             </Row>
@@ -161,7 +206,12 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="flutter.png" alt="flutter" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="flutter.png"
+                    alt="flutter"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
@@ -177,7 +227,12 @@ function Skills() {
             <Row className={styles.skill}>
               <Col md={4}>
                 <Row className={styles.rowCenter}>
-                  <Image className={styles.logo} src="java.png" alt="java" fluid />
+                  <Image
+                    className={styles.logo}
+                    src="java.png"
+                    alt="java"
+                    fluid
+                  />
                 </Row>
               </Col>
               <Col md={8}>
