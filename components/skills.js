@@ -121,8 +121,7 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I started learning because I want to develop applications for
-                  android and ios platforms from a single codebase.
+                  I use Bootstrap to create reponsive websites.
                 </p>
               </Col>
             </Row>
@@ -140,9 +139,9 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  Before I start coding, I use Figma for design. I also use it
-                  to create visual materials like logo, icon etc. for my
-                  projects.
+                  I benefit from Figma to design my project before starting
+                  coding it. I also use it to create visual materials like logo,
+                  icon etc. for my projects.
                 </p>
               </Col>
             </Row>
@@ -160,8 +159,9 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I started learning from a single codebase to develop apps for
-                  both android and ios platforms. I'm still learning.
+                  I have been learning react native from a single codebase for a
+                  while to develop apps for both android and ios platforms. I'm
+                  still learning.
                 </p>
               </Col>
             </Row>
@@ -179,8 +179,9 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I have been used strapi to pull data in my blog project that I developed to
-                  gain more experience on the JAMStack approach.
+                  I have been using strapi to get data in my blog project that I
+                  developed in order to gain more experience on the JAMStack
+                  approach.
                 </p>
               </Col>
             </Row>
@@ -198,7 +199,8 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I have been used heroku to deploy the back-end of some of my projects.
+                  I have been using heroku to deploy the back-end of some of my
+                  projects.
                 </p>
               </Col>
             </Row>
@@ -219,7 +221,7 @@ function Skills() {
                   I attended the Mustafa Akgül Free Software Winter Camp to
                   start learning Flutter. During my part-time work at Konya
                   Technical University Information Technologies Department, I
-                  took small tasks in a Flutter project.
+                  was given simple tasks.
                 </p>
               </Col>
             </Row>
@@ -237,7 +239,7 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  I started learning in object-oriented programming course in
+                  I started learning object-oriented programming course in
                   the second year of university. Then I took the Visual
                   Programming Languages ​​course about GUI development with Java
                   Swing.
@@ -253,7 +255,7 @@ function Skills() {
               </Col>
               <Col md={8}>
                 <p className={styles.rowCenter}>
-                  In the first year of university, I received basic C training
+                  In the first year of university, I took basic C training
                   in Algorithm and Programming 1-2 lessons. In the second grade,
                   I used it in Data Structures, Algorithms lessons and some
                   small projects.
