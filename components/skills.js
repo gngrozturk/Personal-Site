@@ -258,7 +258,7 @@ function Skills() {
                   In the first year of university, I took basic C training
                   in Algorithm and Programming 1-2 lessons. In the second grade,
                   I used it in Data Structures, Algorithms lessons and some
-                  small projects.
+                  simple projects.
                 </p>
               </Col>
             </Row>
