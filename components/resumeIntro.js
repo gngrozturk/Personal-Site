@@ -18,7 +18,7 @@ function Resume() {
                   I have been involved in software development for about three
                   years. During this time, I usually worked on programming of
                   websites and mobile applications. I designed and developed
-                  responsive, corporate web sites for several company in many
+                  responsive, corporate websites for several company in many
                   sector. I created two blog sites with two different front-end
                   approach for gain more experience about browsers and data
                   transportation. I also worked on mobile application
