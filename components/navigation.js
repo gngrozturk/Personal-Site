@@ -28,7 +28,7 @@ function Navigation() {
               <Nav.Link className={styles.links} href="#resume">
                 RESUME
               </Nav.Link>
-               <Nav.Link className={styles.links} target="_blank" href="https://www.betikblog.com/gungorozturk">
+               <Nav.Link className={styles.links} target="_blank" href="https://www.betikblog.com/yazarlar/gungorozturk">
                 BLOG
               </Nav.Link>
             </Nav>
