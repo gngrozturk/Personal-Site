@@ -1,0 +1,14 @@
+.btn {
+  padding: 1em;
+  margin: 2em;
+  background-color: #228cee;
+  color: #f3f3f3;
+  border-radius: 30px;
+  font-family: "Chivo", sans-serif;
+}
+
+.btn:hover {
+  color: #f3f3f3;
+  background-color: #1b66ac;
+  transition: 0.2s;
+}

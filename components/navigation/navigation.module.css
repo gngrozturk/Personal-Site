@@ -1,0 +1,25 @@
+.navigation {
+  background-color: #0d0d0d;
+  padding: 0.5em;
+}
+
+.links {
+  color: #228cee;
+  font-family: "Chivo", sans-serif;
+  font-size: 1.1em;
+  margin-right: 1em;
+}
+
+.links:hover {
+  color: #49a4f8;
+}
+
+.logo {
+  font-size: 2em;
+  color: #f3f3f3;
+  font-family: "Yellowtail", cursive;
+}
+
+.logo:hover {
+  color: white;
+}

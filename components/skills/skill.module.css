@@ -1,0 +1,35 @@
+.skill {
+  margin-top: 6%;
+  margin-bottom: 6%;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  max-height: 170px;
+  max-width: 190px;
+}
+
+.rowCenter {
+  justify-content: center;
+}
+
+@media screen and (max-width: 810px) {
+  .skillText {
+    text-align: center;
+  }
+
+  .logo {
+    margin-bottom: 1em;
+    max-height: 140px;
+  }
+
+  .skill {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    border: 1px #1d1d1d solid;
+    border-radius: 5px;
+  }
+}
