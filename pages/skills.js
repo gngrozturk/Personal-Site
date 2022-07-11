@@ -17,8 +17,7 @@ function Skills() {
           <Skill
             src="js.png"
             alt="js"
-            statement="I use Javascript to develop more dynamic projects. I'm
-              improving myself to be better at JavaScript libraries."
+            statement="I use Javascript to develop more dynamic projects. I improve myself to be better at JavaScript libraries."
           />
           <Skill
             src="reactNative.png"
@@ -28,7 +27,7 @@ function Skills() {
           <Skill
             src="vue.png"
             alt="vue"
-            statement="I have been learning Vue.js to develop component-based dynamic websites. I used it in the first phase of my graduation project which is very liked by my counsellor professors."
+            statement="I have been learning Vue.js to develop component-based dynamic websites. I used it in the first phase of my graduation project which was liked very much by my counsellor professors."
           />
           <Skill
             src="nextJs.png"
@@ -93,7 +92,7 @@ function Skills() {
             alt="C"
             statement="In the first year of university, I took basic C training in
             Algorithms and Programming 1-2 lessons. In the second grade, I
-                  used it in Data Structures, Algorithms lessons and some simple
+                  used it in Data Structures, Algorithms lessons, and some simple
                   projects."
           />
         </Col>

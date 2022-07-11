@@ -17,7 +17,7 @@ function Home() {
         </p>
         <br />
         <p>
-          I love learning and sharing what I have learned. That's why I created
+          I love learning and sharing what I learned. That's why I created
           a
           <span className={styles.link}>
             {" "}
