@@ -9,7 +9,7 @@ function Home() {
       <Col lg={8}>
         <h1>About Me</h1>
         <p>
-          Hi, I am Güngör. I have a bachelor's degree from the Computer
+          Hi, I am Güngör. I hold a bachelor's degree from the Computer
           Engineering Department of Konya Technical University. I have been
           studying front-end development on websites and mobile applications.
           The reason I work in these fields is that I like to develop platforms

@@ -54,6 +54,11 @@ function Skills() {
             statement="I use CSS in coding interface designs in my web projects."
           />
           <Skill
+            src="sass.png"
+            alt="ssss"
+            statement="I use SASS for efficiency in my projects' style phases. It's so easy to use and it makes a lot of time-saving."
+          />
+          <Skill
             src="Bootstrap.png"
             alt="Bootstrap"
             statement="I use Bootstrap to create responsive websites."
