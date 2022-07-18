@@ -22,7 +22,10 @@ function HomePage() {
             </Col>
           </Row>
           <Row className={styles.rowAlign}>
-            <Button btnTitle="Download my Resume" href="/NewResume.pdf" />
+            <Button
+              btnTitle="Download my Resume"
+              href="/Gungor-Ozturk-Resume.pdf"
+            />
           </Row>
         </Col>
       </Row>
