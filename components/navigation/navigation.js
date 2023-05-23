@@ -28,7 +28,7 @@ function Navigation() {
               <Nav.Link className={styles.links} href="/skills">
                 SKILLS
               </Nav.Link>
-               <Nav.Link className={styles.links} target="_blank" href="https://www.betikblog.com/yazarlar/gungorozturk">
+               <Nav.Link className={styles.links} target="_blank" href="https://betik-blog.vercel.app/yazarlar/gungorozturk">
                 BLOG
               </Nav.Link>
             </Nav>
